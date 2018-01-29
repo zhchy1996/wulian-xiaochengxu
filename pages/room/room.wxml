@@ -1,0 +1,35 @@
+<!--pages/room/room.wxml-->
+<view class="container">
+  <view class="wrapper">
+    <view>
+      <navigator>
+        <image src="../../static/占位.png" class="turnon"></image>
+        卧室
+      </navigator>
+      <navigator>
+        <image src="../../static/占位.png" class="turnon"></image>
+        厨房
+      </navigator>
+    </view>
+    <view>
+      <navigator>
+        <image src="../../static/占位.png" class="turnon"></image>
+        卧室
+      </navigator>
+      <navigator>
+        <image src="../../static/占位.png" class="turnon"></image>
+        厨房
+      </navigator>
+    </view>
+    <view>
+      <navigator>
+        <image src="../../static/占位.png" class="turnon"></image>
+        卧室
+      </navigator>
+      <navigator>
+        <image src="../../static/添加.png" class="turnon"></image>
+        添加
+      </navigator>
+    </view>    
+  </view>
+</view>

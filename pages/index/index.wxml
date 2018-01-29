@@ -1,0 +1,39 @@
+<!--index.wxml-->
+<view class="container">
+  <!-- <view class="head">
+    <text>设备</text>
+  </view> -->
+  <view class="wrapper">
+    <view>
+      <navigator>
+        <image src="../../static/开关.png" class="turnon"></image>
+        灯光全关
+      </navigator>
+      <navigator>
+        <image src="../../static/播放.png" class="turnon"></image>
+        灯光全开
+      </navigator>
+    </view>
+    <view>
+      <navigator>
+        <image src="../../static/温度.png" class="turnon"></image>
+        温度
+      </navigator>
+      <navigator>
+        <image src="../../static/湿度.png" class="turnon"></image>
+        湿度
+      </navigator>
+    </view>
+    <view>
+      <navigator>
+        <image src="../../static/风速.png" class="turnon"></image>
+        风速
+      </navigator>
+      <navigator>
+        <image src="../../static/添加.png" class="turnon"></image>
+        添加传感器
+      </navigator>
+    </view>
+    
+  </view>
+</view>
